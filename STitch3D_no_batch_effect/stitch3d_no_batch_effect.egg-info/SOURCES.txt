@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+STitch3D_no_batch_effect/__init__.py
+STitch3D_no_batch_effect/align_tools.py
+STitch3D_no_batch_effect/model.py
+STitch3D_no_batch_effect/networks.py
+STitch3D_no_batch_effect/utils.py
+stitch3d_no_batch_effect.egg-info/PKG-INFO
+stitch3d_no_batch_effect.egg-info/SOURCES.txt
+stitch3d_no_batch_effect.egg-info/dependency_links.txt
+stitch3d_no_batch_effect.egg-info/top_level.txt
